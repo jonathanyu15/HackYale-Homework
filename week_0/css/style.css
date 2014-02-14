@@ -1,0 +1,37 @@
+a {
+	color: red;
+}
+
+h1 {
+	text-align: center;
+	color: green;
+	font-size: 250%;
+}
+
+h2 {
+	font-size: 200%;
+	color: blue;
+}
+
+.columns {
+	display: block;
+	width: 100%;
+}
+
+.col1, .col2 {
+	display: inline-block;
+	width: 50%;
+	height: 400px;
+}
+
+.col1 {
+	background-color: red;
+}
+
+.col2 {
+	background-color: blue;
+}
+
+h7{
+	color:red;
+}
